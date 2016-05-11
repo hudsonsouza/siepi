@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70"
+   height="60"
+   viewBox="0 0 70 60"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="siepi-logotipo.svg"
+   inkscape:export-filename="/var/www/siepi/img-int/siepi-logotipo-branco.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   style="enable-background:new">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5822"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5824" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.364876"
+     inkscape:cx="120.27945"
+     inkscape:cy="38.19693"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     borderlayer="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="quadrado"
+     style="display:inline"
+     transform="translate(0,-30.099998)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.28000021;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4835"
+       width="70"
+       height="60"
+       x="0"
+       y="30.099998"
+       inkscape:export-filename="/var/www/siepi/img-int/siepi-cabecalho2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="triangulo"
+     style="display:inline;opacity:0.68999999"
+     transform="translate(0,-240)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="SiEpi"
+     style="display:inline;opacity:1"
+     transform="translate(0,-240)">
+    <g
+       id="g4895"
+       transform="translate(4.1223409,15.050007)"
+       inkscape:export-filename="/var/www/siepi/img-int/siepi-cabecalho2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g4864">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#333333;fill-opacity:0;stroke:#666666;stroke-width:6.37778759;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5877"
+           sodipodi:sides="3"
+           sodipodi:cx="177.9095"
+           sodipodi:cy="156.90926"
+           sodipodi:r1="117.67323"
+           sodipodi:r2="58.836617"
+           sodipodi:arg1="0.51261026"
+           sodipodi:arg2="1.5598078"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 280.45787,214.62253 -101.90186,1.11979 -101.901852,1.1198 49.981152,-88.8095 49.98116,-88.809493 51.9207,87.689703 z"
+           inkscape:transform-center-x="-0.069482462"
+           inkscape:transform-center-y="-29.358116"
+           transform="matrix(0.25985848,0.00259944,-0.00254867,0.26503512,-14.972758,221.10411)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.62020111px;line-height:50%;font-family:'Ecliptic BRK';-inkscape-font-specification:'Ecliptic BRK, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="11.408421"
+           y="273.78537"
+           id="text5879"
+           sodipodi:linespacing="50%"
+           transform="scale(0.99018589,1.0099114)"><tspan
+             sodipodi:role="line"
+             id="tspan5881"
+             x="11.408421"
+             y="273.78537"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.56116676px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#666666">A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.62020111px;line-height:50%;font-family:'Ecliptic BRK';-inkscape-font-specification:'Ecliptic BRK, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="50.150955"
+           y="273.78537"
+           id="text5883"
+           sodipodi:linespacing="50%"
+           transform="scale(0.99018589,1.0099114)"><tspan
+             sodipodi:role="line"
+             id="tspan5885"
+             x="50.150955"
+             y="273.78537"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.56116676px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#666666">P</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.62020111px;line-height:50%;font-family:'Ecliptic BRK';-inkscape-font-specification:'Ecliptic BRK, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="31.196518"
+           y="241.15492"
+           id="text5887"
+           sodipodi:linespacing="50%"
+           transform="scale(0.99018589,1.0099114)"><tspan
+             sodipodi:role="line"
+             id="tspan5889"
+             x="31.196518"
+             y="241.15492"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.56116676px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#666666">H</tspan></text>
+      </g>
+      <text
+         transform="scale(1.0491228,0.95317727)"
+         sodipodi:linespacing="50%"
+         id="text4192"
+         y="278.22049"
+         x="29.433994"
+         style="font-style:normal;font-weight:normal;font-size:2.09000397px;line-height:50%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#007800;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.02258492px;line-height:50%;font-family:'Rambling BRK';-inkscape-font-specification:'Rambling BRK';text-align:center;letter-spacing:2.09000397px;writing-mode:lr-tb;text-anchor:middle;fill:#007800;fill-opacity:1"
+           y="278.22049"
+           x="30.478998"
+           id="tspan4194"
+           sodipodi:role="line">SiEpi</tspan></text>
+    </g>
+  </g>
+</svg>
